@@ -27,7 +27,8 @@
 #　リンク
 ウェブ関連技術の標準化は [World Wide Web Consortium (W3C)](http://www.w3.org/) などによって行われています。
 
-[夏に飲むビールは最高！！！](img/sake.jpg)
+# 画像リンク
+![夏に飲むビールは最高！！！](img/sake.jpg)
 
 # 強調
 夏に飲む*ビール*は最高！！！
@@ -39,3 +40,11 @@ pulic static void main(String []){
     system out purintle ("Hello kasu");
 }
 ```
+#　水平線
+***
+
+# 表
+|見出し1|見出し2 |
+| -- | -- |
+| 内容1-1 | 内容2-1|
+| 内容1-2 | **内容2-2** |
