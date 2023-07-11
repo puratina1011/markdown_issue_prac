@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "gatsby-remark-copy-linked-files": "^6.11.0"
+  }
+}
