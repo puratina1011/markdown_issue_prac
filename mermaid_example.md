@@ -28,7 +28,4 @@ Vscodeには様々な拡張機能があります。今回はMarkdownを書く際
 <img src="img/mame4.png" width="500">
 Markdownを書く際に非常に便利な拡張機能です。
 
-<video controls playsinline width="100%" autoplay loop muted="true" src="video/1.mp4" type="video/mp4">
- Sorry, your browser doesn't support embedded videos.
-
-</video>
+<iframe width="560" height="315" src="https://youtu.be/xBREUPEOTBI" frameborder="0" allowfullscreen></iframe>
