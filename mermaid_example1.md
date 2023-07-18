@@ -28,4 +28,8 @@ Vscodeには様々な拡張機能があります。今回はMarkdownを書く際
 <img src="img/mame4.png" width="500">
 Markdownを書く際に非常に便利な拡張機能です。
 
-<iframe width="560" height="315" src="https://youtu.be/xBREUPEOTBI" frameborder="0" allowfullscreen></iframe>
+下の画像をクリックすると実際どのように動作するのか
+YouTubeに投稿してますのでご覧ください
+
+[!['altテキスト'](mig/../img/サムネ2.png)](https://www.youtube.com/watch?v=xBREUPEOTBI)
+
