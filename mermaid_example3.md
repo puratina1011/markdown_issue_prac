@@ -6,8 +6,7 @@
 ## フローチャート
 ***
 <img src="img/aaa.png" width="500">
-***mermaid
-```flow
+```
 開始=>start: はじめ
 終了=>end: おわり
 
