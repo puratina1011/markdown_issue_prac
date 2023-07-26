@@ -1,6 +1,6 @@
  | No             | タスク名      | 開始日  | 開始日         |内容|
  | -------------- | ------------- | ------- | ------- | ------- | ------- | ------- | ------- |
- | 1 | 企画書作成 | 56 | 514 <td bgcolor=blue><font color=blue>1<td bgcolor=blue><font color=blue>1<td bgcolor=blue><font color=blue>1<td bgcolor=blue><font color=blue>1<td bgcolor=blue><font color=blue>1<td bgcolor=blue><font color=blue>1<td bgcolor=blue><font color=blue>1<td bgcolor=blue><font color=blue>1<td bgcolor=blue><font color=blue>1
+ | 1 | 企画書作成 | 56 | 514 | ○○○○○○○ | 
  | 2 | 要件定義 | 517 | 521 | ○○○○○○○ |
  | 3 | 設計 | 524 | 64 | ○○○○○○○ |
  | 4 | 開発準備 | 621 | 625 | ○○○○○○○ |
