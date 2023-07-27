@@ -30,6 +30,7 @@ section Bセクション
 
 まずは一行目に『gantt』と記入することでガントチャートを作ることができます。
 <img src="img/ccc.png" width="500">
+dateformatでは、ガントチャートで管理する時間軸を設定するとともに、ガントチャート上に表示する日時の表示の仕方を設定できます！
 
 
 参考したサイト:https://ai-research-collection.com/gantt-mermaid/
